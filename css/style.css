@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(250, 400, 300);
-    color: rgb(70, 150, 50);
+    background-color: rgb(200, 350, 250);
+    color: rgb(55, 125, 40);
     }
 
 .wrapper{
@@ -12,7 +12,7 @@ body {
     font-family: 'Balsamiq Sans';
     font-family: 'Train One';
     font-style: italic;
-    background-color:rgb(250, 400, 300);
+    background-color:rgb(200, 350, 250);
     border-radius: 10px;
 }
 .header{
