@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(150, 250, 200);
+    background-color: rgb(250, 400, 300);
     color: rgb(70, 150, 50);
     }
 
@@ -12,7 +12,7 @@ body {
     font-family: 'Balsamiq Sans';
     font-family: 'Train One';
     font-style: italic;
-    background-color:rgb(116, 211, 176);
+    background-color:rgb(250, 400, 300);
     border-radius: 10px;
 }
 .header{
